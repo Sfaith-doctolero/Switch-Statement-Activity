@@ -2,7 +2,7 @@
 
 
 //program that prompts the user to enter a day of the week
-//.lowerCase() - to avoid errorsz regarding case sensitivity
+//.lowerCase() - to avoid errors regarding case sensitivity
 let day = prompt("Enter a day of the week:").toLowerCase();
 
 //switch statement that maps  each day to a specific task
